@@ -1,6 +1,6 @@
 # Ex.No.7 – Develop a Prompt-Based Application Tailored to Personal Needs
 
-## Date: 02-08-2026
+## Date: 02-09-2026
 
 ## Register No.: 212223230143
 
